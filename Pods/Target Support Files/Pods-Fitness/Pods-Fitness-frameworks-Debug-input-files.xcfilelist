@@ -1,0 +1,18 @@
+${PODS_ROOT}/Target Support Files/Pods-Fitness/Pods-Fitness-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ACFloatingTextfield-Objc/ACFloatingTextfield_Objc.framework
+${BUILT_PRODUCTS_DIR}/AppAuth/AppAuth.framework
+${BUILT_PRODUCTS_DIR}/CircleBar/CircleBar.framework
+${BUILT_PRODUCTS_DIR}/DatePicker/DatePicker.framework
+${BUILT_PRODUCTS_DIR}/DroidTimeSelection/DroidTimeSelection.framework
+${BUILT_PRODUCTS_DIR}/Extended/Extended.framework
+${BUILT_PRODUCTS_DIR}/FCAlertView/FCAlertView.framework
+${BUILT_PRODUCTS_DIR}/GTMAppAuth/GTMAppAuth.framework
+${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework
+${BUILT_PRODUCTS_DIR}/JBTabBarAnimation/JBTabBarAnimation.framework
+${BUILT_PRODUCTS_DIR}/LFTimePicker/LFTimePicker.framework
+${BUILT_PRODUCTS_DIR}/MDatePickerView/MDatePickerView.framework
+${BUILT_PRODUCTS_DIR}/MFCard/MFCard.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/TransitionButton/TransitionButton.framework
+${BUILT_PRODUCTS_DIR}/ValidationTextField/ValidationTextField.framework
+${BUILT_PRODUCTS_DIR}/iOSDropDown/iOSDropDown.framework
