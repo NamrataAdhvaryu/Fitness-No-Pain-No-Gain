@@ -61,4 +61,10 @@ Fitness App can deliver millions of workouts online and in-person. Online schedu
 <img width="360" alt="Screenshot 2021-02-24 at 7 42 54 AM" src="https://user-images.githubusercontent.com/70209068/109086039-d4cab500-76d8-11eb-987c-e1f5797e18c7.png">
 <img width="363" alt="Screenshot 2021-02-24 at 6 17 30 AM" src="https://user-images.githubusercontent.com/70209068/109086466-9b467980-76d9-11eb-8e7e-5a57e343ca41.png">
 
+* Booking Appointments: select date,select time,select category and area.Once submit your information it shows down your confirmed booking and will give you reminder.
+
+<img width="357" alt="Screenshot 2021-02-24 at 6 17 52 AM" src="https://user-images.githubusercontent.com/70209068/109086841-53742200-76da-11eb-9c44-725c49db68de.png">
+<img width="359" alt="Screenshot 2021-02-24 at 7 53 13 AM" src="https://user-images.githubusercontent.com/70209068/109086848-54a54f00-76da-11eb-8c79-82af0a9f4985.png">
+<img width="354" alt="Screenshot 2021-02-24 at 7 52 55 AM" src="https://user-images.githubusercontent.com/70209068/109086854-55d67c00-76da-11eb-95b3-0aae5e5ebc39.png">
+<img width="350" alt="Screenshot 2021-02-24 at 7 52 46 AM" src="https://user-images.githubusercontent.com/70209068/109086857-566f1280-76da-11eb-9920-5f2337f0f640.png">
 
