@@ -52,7 +52,7 @@ Fitness App can deliver millions of workouts online and in-person. Online schedu
 
 * After selection user will get all the relevant Post of their selection.
 
-<img width="353" alt="Screenshot 2021-02-24 at 7 30 57 AM" src="https://user-images.githubusercontent.com/70209068/109085317-6df8cc00-76d7-11eb-9bce-86e4845c0146.png"><img width="355" alt="Screenshot 2021-02-24 at 7 30 46 AM" src="https://user-images.githubusercontent.com/70209068/109085322-718c5300-76d7-11eb-8fbd-1a8daac318d6.png"><img width="350" alt="Screenshot 2021-02-24 at 7 30 52 AM" src="https://user-images.githubusercontent.com/70209068/109085333-76510700-76d7-11eb-8b6a-0023c226f0eb.png">
+<img width="353" alt="Screenshot 2021-02-24 at 7 30 57 AM" src="https://user-images.githubusercontent.com/70209068/109085317-6df8cc00-76d7-11eb-9bce-86e4845c0146.png"> <img width="355" alt="Screenshot 2021-02-24 at 7 30 46 AM" src="https://user-images.githubusercontent.com/70209068/109085322-718c5300-76d7-11eb-8fbd-1a8daac318d6.png"> <img width="350" alt="Screenshot 2021-02-24 at 7 30 52 AM" src="https://user-images.githubusercontent.com/70209068/109085333-76510700-76d7-11eb-8b6a-0023c226f0eb.png">
 
 * User will Get plenty of relavent Videos,Discriptions ,Advantages and Disadvantages of perticular Task(Yoga  asans,Zumba steps,Gum exercise)
 
