@@ -18,12 +18,16 @@ Fitness App can deliver millions of workouts online and in-person. Online schedu
 * Update your Post
 * Create your profile
 
-# Build with
+# Build With
 
 * Swift
 * Cocoa Pods
 * MySQL
 * SQlite
+
+# Technology
+
+* Swift 
 
 # Screenshots
 
