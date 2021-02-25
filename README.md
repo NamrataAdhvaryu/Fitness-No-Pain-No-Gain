@@ -27,3 +27,10 @@ Fitness App can deliver millions of workouts online and in-person. Online schedu
 
 # Screenshots
 
+* Splash screen when user launches the application
+
+<img width="357" alt="Screenshot 2021-02-24 at 6 16 10 AM" src="https://user-images.githubusercontent.com/70209068/109082701-77cc0080-76d2-11eb-8426-e5ca60394ade.png">
+
+* User can Login via goolgle ,facebook and can create new profile
+
+* User need to Register in order to sign up otherwise user will not able to enter and will show alert.
