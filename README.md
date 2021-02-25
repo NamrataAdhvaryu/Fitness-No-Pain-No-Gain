@@ -58,8 +58,7 @@ Fitness App can deliver millions of workouts online and in-person. Online schedu
 
 * User will Get plenty of relavent Videos,Discriptions ,Advantages and Disadvantages of perticular Task(Yoga  asans,Zumba steps,Gum exercise)
 
-<img width="355" alt="Screenshot 2021-02-24 at 7 30 46 AM" src="https://user-images.githubusercontent.com/70209068/109086034-d3998800-76d8-11eb-9087-93a6699a7269.png">
 <img width="360" alt="Screenshot 2021-02-24 at 7 42 54 AM" src="https://user-images.githubusercontent.com/70209068/109086039-d4cab500-76d8-11eb-987c-e1f5797e18c7.png">
-<img width="1440" alt="Screenshot 2021-02-24 at 6 17 30 AM" src="https://user-images.githubusercontent.com/70209068/109086144-0c396180-76d9-11eb-9aa9-55bda496db72.png">
+<img width="363" alt="Screenshot 2021-02-24 at 6 17 30 AM" src="https://user-images.githubusercontent.com/70209068/109086466-9b467980-76d9-11eb-8e7e-5a57e343ca41.png">
 
 
