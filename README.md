@@ -79,3 +79,12 @@ Fitness App can deliver millions of workouts online and in-person. Online schedu
 
 <img width="358" alt="Screenshot 2021-02-24 at 6 18 09 AM" src="https://user-images.githubusercontent.com/70209068/109087460-84088b80-76db-11eb-98c7-bf748f9afa34.png">
 <img width="362" alt="Screenshot 2021-02-24 at 6 18 25 AM" src="https://user-images.githubusercontent.com/70209068/109087467-87037c00-76db-11eb-9403-357372fe3619.png"><img width="362" alt="Screenshot 2021-02-24 at 6 18 32 AM" src="https://user-images.githubusercontent.com/70209068/109087470-8834a900-76db-11eb-8b2a-081afb32acaf.png">
+
+
+* User can edit their Profile as well as view others profile as well.
+
+<img width="358" alt="Screenshot 2021-02-24 at 6 20 13 AM" src="https://user-images.githubusercontent.com/70209068/109088333-3c82ff00-76dd-11eb-9c77-a2fcbe239b9c.png">
+<img width="359" alt="Screenshot 2021-02-24 at 6 20 37 AM" src="https://user-images.githubusercontent.com/70209068/109088336-3db42c00-76dd-11eb-9300-4caf7cd398a1.png">
+<img width="358" alt="Screenshot 2021-02-24 at 6 20 53 AM" src="https://user-images.githubusercontent.com/70209068/109088340-3ee55900-76dd-11eb-81be-9b3195185591.png">
+
+
