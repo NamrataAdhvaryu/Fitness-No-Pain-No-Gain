@@ -25,10 +25,6 @@ Fitness App can deliver millions of workouts online and in-person. Online schedu
 * MySQL
 * SQlite
 
-# Technology
-
-* Swift 
-
 # Screenshots
 
 * Splash screen when user launches the application
