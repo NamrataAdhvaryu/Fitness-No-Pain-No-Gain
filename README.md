@@ -41,3 +41,7 @@ Fitness App can deliver millions of workouts online and in-person. Online schedu
 
 
 <img width="356" alt="Screenshot 2021-02-24 at 7 22 01 AM" src="https://user-images.githubusercontent.com/70209068/109084605-14dc6880-76d6-11eb-9075-0fa32c76e487.png">
+
+* Once you login the App will redirect you to Home page where you have theree options Yoga,Zumba and Gym. customer have to select one.
+* After selection user will get all the relevant Post of their selection.
+
