@@ -46,7 +46,8 @@ Fitness App can deliver millions of workouts online and in-person. Online schedu
 
 
 
-<img width="1440" alt="Screenshot 2021-02-24 at 6 16 51 AM" src="https://user-images.githubusercontent.com/70209068/109085306-69ccae80-76d7-11eb-985d-debbbfe29138.png">
+<img width="353" alt="Screenshot 2021-02-24 at 6 16 51 AM" src="https://user-images.githubusercontent.com/70209068/109085551-e8295080-76d7-11eb-9f95-7e59e9572e43.png">
+
 
 
 * After selection user will get all the relevant Post of their selection.
