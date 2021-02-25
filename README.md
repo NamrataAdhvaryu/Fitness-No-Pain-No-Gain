@@ -33,4 +33,11 @@ Fitness App can deliver millions of workouts online and in-person. Online schedu
 
 * User can Login via goolgle ,facebook and can create new profile
 
+
+<img width="343" alt="Screenshot 2021-02-24 at 7 21 56 AM" src="https://user-images.githubusercontent.com/70209068/109084602-127a0e80-76d6-11eb-9df8-c3c75bc0c3fd.png">
+
+
 * User need to Register in order to sign up otherwise user will not able to enter and will show alert.
+
+
+<img width="356" alt="Screenshot 2021-02-24 at 7 22 01 AM" src="https://user-images.githubusercontent.com/70209068/109084605-14dc6880-76d6-11eb-9075-0fa32c76e487.png">
