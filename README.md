@@ -68,3 +68,7 @@ Fitness App can deliver millions of workouts online and in-person. Online schedu
 <img width="354" alt="Screenshot 2021-02-24 at 7 52 55 AM" src="https://user-images.githubusercontent.com/70209068/109086854-55d67c00-76da-11eb-95b3-0aae5e5ebc39.png">
 <img width="350" alt="Screenshot 2021-02-24 at 7 52 46 AM" src="https://user-images.githubusercontent.com/70209068/109086857-566f1280-76da-11eb-9920-5f2337f0f640.png">
 
+* Select Categories and Discounts for Payment
+
+<img width="357" alt="Screenshot 2021-02-24 at 6 17 58 AM" src="https://user-images.githubusercontent.com/70209068/109087268-2a07c600-76db-11eb-83f4-96391f53e236.png">
+<img width="354" alt="Screenshot 2021-02-24 at 6 18 05 AM" src="https://user-images.githubusercontent.com/70209068/109087275-2b38f300-76db-11eb-8ed3-e97f83cc1fef.png">
